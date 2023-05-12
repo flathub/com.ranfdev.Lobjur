@@ -26,8 +26,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://github.com/ranfdev/Lobjur/releases/download/v1.2.0/com.ranfdev.Lobjur.tar.xz",
-                    "sha256": "7aee325f036132282ff456d3797a5afb65c82f79c19c99219b7cad3b2799c4f2",
+                    "url": "https://github.com/ranfdev/Lobjur/releases/download/v1.3.0/com.ranfdev.Lobjur.tar.xz",
+                    "sha256": "c0ada0510613cccec2a798d0200e8a69ed2c013b99388cdec9b2a0cece46e922",
                     "x-checker-data": {
                         "type": "json",
                         "url": "https://api.github.com/repos/ranfdev/Lobjur/releases/latest",
